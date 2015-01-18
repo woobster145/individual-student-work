@@ -14,3 +14,17 @@ Follow these steps for each assignment:
 ### Reviewing assignments
 
 Once created, I will do a code review with line-by-line feedback directly within the pull request. If I ask you to submit corrections, you can push fixes up to their forks, which will be reflected in the pull request.
+
+<!-- Links -->
+[create-repo]: https://help.github.com/articles/create-a-repo
+[private-repos]: /guide/private_repos
+[add-to-team-action]: https://github.com/education/teachers_pet/#giving-others-access
+[teachers-pet]: https://github.com/education/teachers_pet
+[help-add-to-team]: https://help.github.com/articles/adding-organization-members-to-a-team
+[help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
+[forking]: https://guides.github.com/activities/forking/
+[ref-clone]: http://gitref.org/creating/#clone
+[ref-commit]: http://gitref.org/basic/#commit
+[ref-push]: http://gitref.org/remotes/#push
+[pull-request]: https://help.github.com/articles/creating-a-pull-request
+[raw]: https://raw.githubusercontent.com/education/guide/master/docs/forks.md
