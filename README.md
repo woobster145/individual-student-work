@@ -13,7 +13,7 @@ Follow these steps for each assignment:
 
 ### Reviewing assignments
 
-Once created, I will do a code review with line-by-line feedback directly within the pull request. If I ask you to submit corrections, you can push fixes up to their forks, which will be reflected in the pull request.
+Once created, I will do a code review with line-by-line feedback directly within the pull request. If I ask you to submit corrections, you can push fixes up to your forks, which will be reflected in the pull request.
 
 <!-- Links -->
 [create-repo]: https://help.github.com/articles/create-a-repo
