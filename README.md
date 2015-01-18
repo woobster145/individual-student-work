@@ -10,8 +10,11 @@ Follow these steps for each assignment:
 1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-2. To make sure you are up to date with changes run 'git remote add upstream git@github.com:WSO-CS/individual-student-work.git'
-3. Then run 'git pull upstream master'
+
+#### Updating your fork ####
+To make sure you are up to date with changes, run both lines the first time and the second line each time after that
+<pre>git remote add upstream git@github.com:WSO-CS/individual-student-work.git 
+git pull upstream master</pre>
 
 ### Reviewing assignments
 
