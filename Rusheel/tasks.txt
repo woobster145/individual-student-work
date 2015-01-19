@@ -1,0 +1,6 @@
+===Rusheel's Tasks===
+
+Weaknesses:
+* Arrays of objects
+* private, static, void
+
