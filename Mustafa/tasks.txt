@@ -1,0 +1,5 @@
+===Mustafa's tasks===
+
+Weaknesses:
+* Comments
+* Exceptions
