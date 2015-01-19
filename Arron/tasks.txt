@@ -1,0 +1,6 @@
+===Arron's tasks===
+
+Weaknesses:
+* Subclasses
+* Array definitions
+* ADT structures
