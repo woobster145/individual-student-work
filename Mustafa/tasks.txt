@@ -2,4 +2,9 @@
 
 Weaknesses:
 * Comments
+
+Task 1
+
 * Exceptions
+
+Task 2
