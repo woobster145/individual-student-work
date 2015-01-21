@@ -1,0 +1,7 @@
+===Umang's Tasks===
+
+Weaknesses:
+* Constructors
+* Working with files
+* Object designs
+* Public/private keywords
