@@ -1,5 +1,5 @@
 .DS_Store
 *.swp
 *.class
-**/*.project
-**/*.classpath
+.project
+.classpath
