@@ -35,6 +35,9 @@ public class ReadCVS {
 	} catch (IOException e) {
 		//Printing out an error if some other error occurs
 		System.out.println("Error - IOException");
-	} 
+	} catch (ArrayIndexOutOfBoundsException e){
+		//Print out error
+		System.out.println("Unexpected Error")
+	}
   }
 }
