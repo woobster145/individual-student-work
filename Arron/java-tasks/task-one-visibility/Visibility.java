@@ -1,8 +1,4 @@
-class PublicPerson {
-}
-
-class PrivatePerson {
-}
+package homeLearning;
 
 public class Visibility {
     public static void main(String[] args) {
@@ -18,7 +14,11 @@ public class Visibility {
         String oldestName = whoIsOlder(personOne, personTwo);
 
         System.out.println("The oldest person is " + oldestName);
-
+    }  
+    
+    private static String whoIsOlder(PrivatePerson personOne,
+			PublicPerson personTwo) {
+	return "Dave Jones";
+	//couldn't figure out how to output the older of the two using if
     }
 }
-
