@@ -48,6 +48,8 @@ public class CardGenerator extends Player {
 	}
 			if(playerScore > 21){
 				System.out.println("BUST!");
+			}
+			{	
 			if(playerScore == 21){
 				System.out.println("BLACKJACK!");
 			
