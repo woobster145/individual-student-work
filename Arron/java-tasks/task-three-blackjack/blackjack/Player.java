@@ -2,39 +2,39 @@ package blackjack;
 
 public class Player{
 	
-	public String playerName;
-	public int playerScore;
-	public int cardOneScore;
-	public int cardTwoScore;
+	public String playerOne;
+	public static int playerScore;
+	public static int cardOneScore;
+	public static int cardTwoScore;
 	
-	public Player (String playerName, int playerScore, int cardOneSocre, int cardTwoScore, int cardOneScore){
-		this.playerScore = cardOneScore + cardTwoScore;
-		this.cardOneScore = cardOneScore;
-		this.cardTwoScore = cardTwoScore;
+	public Player (String playerOne, int playerScore, int cardOneSocre, int cardTwoScore){
+		Player.playerScore = cardOneScore + cardTwoScore;
+		Player.cardOneScore = cardOneScore;
+		Player.cardTwoScore = cardTwoScore;
 	}
 
-	public String getPlayerName() {
-		return playerName;
+	public String getPlayerOne() {
+		return playerOne;
 	}
-	public void setPlayerName(String playerName) {
-		this.playerName = playerName;
+	public void setPlayerOne(String playerName) {
+		this.playerOne = playerName;
 	}
 	public int getPlayerScore() {
 		return playerScore;
 	}
 	public void setPlayerScore(int playerScore) {
-		this.playerScore = playerScore;
+		Player.playerScore = playerScore;
 	}
 	public int getCardOneScore() {
 		return cardOneScore;
 	}
 	public void setCardOneScore(int cardOneScore) {
-		this.cardOneScore = cardOneScore;
+		Player.cardOneScore = cardOneScore;
 	}
 	public int getCardTwoScore() {
 		return cardTwoScore;
 	}
 	public void setCardTwoScore(int cardTwoScore) {
-		this.cardTwoScore = cardTwoScore;
+		Player.cardTwoScore = cardTwoScore;
 	}
 }
